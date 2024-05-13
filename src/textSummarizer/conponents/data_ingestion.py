@@ -1,13 +1,10 @@
 import os
 import urllib.request as request
 import zipfile
-from project.summerization.text_summerization.src.textSummarizer.logging import logging
+from project.summerization.text_summerization.src.textSummarizer.logging import logging as logger
 from project.summerization.text_summerization.src.textSummarizer.utils.common import get_size
 from pathlib import Path
 from project.summerization.text_summerization.src.textSummarizer.entity import DataIngestionConfig
-
-logger = logging
-
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):

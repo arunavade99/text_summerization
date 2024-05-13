@@ -2,3 +2,34 @@
 [ 2024-05-08 13:02:19,309 ] 2 root - INFO - I'm trying this nowjhiuohuio
 [ 2024-05-08 14:06:03,595 ] 28 root - INFO - yaml file: C:\Users\Arunava\Desktop\project\summerization\text_summerization\config\config.yaml loaded successfully
 [ 2024-05-08 14:06:03,751 ] 28 root - INFO - yaml file: C:\Users\Arunava\Desktop\project\summerization\text_summerization\params.yaml loaded successfully
+[ 2024-05-08 16:50:22,316 ] 28 root - INFO - yaml file: C:\Users\Arunava\Desktop\project\summerization\text_summerization\config\config.yaml loaded successfully
+[ 2024-05-08 16:50:22,379 ] 28 root - INFO - yaml file: C:\Users\Arunava\Desktop\project\summerization\text_summerization\params.yaml loaded successfully
+[ 2024-05-08 16:50:22,582 ] 47 root - INFO - created directory at: artifacts
+[ 2024-05-08 16:50:22,582 ] 47 root - INFO - created directory at: artifacts/data_ingestion
+[ 2024-05-08 16:50:51,525 ] 13 root - INFO - artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2DA2:395181:27ECC1:328C78:663B5FF9
+Accept-Ranges: bytes
+Date: Wed, 08 May 2024 11:20:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10228-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1715167225.361239,VS0,VE709
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a7bf79a011c1f46fcc489b99e378e9fa1a50de42
+Expires: Wed, 08 May 2024 11:25:26 GMT
+Source-Age: 0
+
+
